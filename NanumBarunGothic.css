@@ -4,7 +4,15 @@
  *
  * Created by NAVER. (http://www.naver.com)
  */
- 
+
+@font-face {
+ font-family: 'BarunGothic';
+ font-weight: 100;
+ src: url(./NanumBarunGothicWebUltraLight.eot);
+ src: url(./NanumBarunGothicWebUltraLight?#iefix) format('embedded-opentype'),
+      url(./NanumBarunGothicWebUltraLight.woff) format('woff'),
+      url(./NanumBarunGothicWebUltraLight.ttf) format('truetype');
+}
 @font-face {
  font-family: 'BarunGothic';
  font-weight: 200;
